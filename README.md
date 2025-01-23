@@ -39,9 +39,9 @@ Efficient data management is central to my projects:
 ---
 
 ### 🔧 **Tech Stack**
-- **Frontend**: React.js, Next.js, Three.js, TailwindCSS, MaterialUI.  
+- **Frontend**: React.js, Next.js, TailwindCSS, MaterialUI.  
 - **Backend**: Node.js (Express, Fastify, NestJS), Python (Django, Flask, FastAPI).  
-- **Mobile**: Flutter.  
+- **Mobile**: Flutter, Kotlin  
 - **Databases**: PostgreSQL, MongoDB, CouchDB, Elasticsearch.  
 - **DevOps**: Docker, Kubernetes, Terraform, GitHub Actions, AWS.  
 - **Tools**: Redis, Git, UNIX/Linux.  
