@@ -1,12 +1,6 @@
 
 ## Hi! I’m Paul 👋
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=paulpascal&theme=gruvbox" alt="paulpascal" />
-  </a>
-</p>
-
 Are you looking for a full-stack or mobile developer to bring your ambitious ideas to life?
 Want to create resilient, high-performance applications with cutting-edge technologies?
 
@@ -72,6 +66,12 @@ I’m always eager to tackle challenging projects and bring ambitious ideas to l
 ---
 
 ### 📊 **GitHub Stats**
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=paulpascal&theme=gruvbox" alt="paulpascal" />
+  </a>
+</p>
+
 [![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulpascal&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulpascal&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)  
