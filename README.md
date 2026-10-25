@@ -45,4 +45,5 @@ I build scalable applications, data platforms, and machine learning solutions th
 
 ## 📫 Connect with Me
 - **Email:** paul.alogno@gmail.com
+- **Portfolio:** [paulpascal.github.io/portofolio](https://paulpascal.github.io/portofolio/)
 - **LinkedIn:** [linkedin.com/in/paul-alognon](https://www.linkedin.com/in/paul-alognon/)
