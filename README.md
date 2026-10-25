@@ -1,5 +1,5 @@
 # 👋 Hi! I'm Paul
-**Software & Data Engineer | Applied AI, RAG & AI Agents | Data Platforms & Interoperability**
+**Software & Data Engineer | Data Platforms & Interoperability**
 I build scalable applications, data platforms, and machine learning solutions that drive measurable impact. I'm passionate about turning complex problems into elegant, high-performance systems.
 
 ---
